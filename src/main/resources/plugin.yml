@@ -1,0 +1,14 @@
+name: SkillsPlugin
+version: 1.0
+main: ru.remsoftware.Skills
+api-version: 1.15
+commands:
+  sethome:
+    description: Set home for teleportation
+    usage: /<command>
+  home:
+    description: Teleport on your home
+    usage: /<command>
+  arena:
+    description: Настройка арены
+    usage: /<command>
